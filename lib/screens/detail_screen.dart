@@ -134,6 +134,7 @@ class DetailScreen extends StatelessWidget {
                                     const Icon(Icons.error),
                                 width: 200,
                                 height: 200,
+                                fit: BoxFit.cover,
                               )),
                         );
                       }),
